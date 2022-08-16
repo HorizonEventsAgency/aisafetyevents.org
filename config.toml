@@ -1,0 +1,17 @@
+baseURL = 'https://aialignmentevents.org'
+languageCode = 'en-us'
+theme = 'paper'
+title = 'AI Alignment Events'
+
+[params]
+    twitter = 'EventsAlignment'    
+    github = 'AIAlignmentEvents'      
+    rss = true                     
+
+    #avatar = 'hello@aialignmentevents.org'
+    name = 'Mission of AI Alignment Events'
+    bio = """
+This is
+a mulitline
+string
+"""

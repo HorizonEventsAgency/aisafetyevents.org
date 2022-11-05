@@ -70,9 +70,14 @@ title = "AI Safety Events"
   #   weight = 3
 
   [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 2
 
   # Footer Menu
   [[menu.footer]]

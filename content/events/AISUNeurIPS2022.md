@@ -36,7 +36,7 @@ A breakfast and a lunch is provided, along with all-day drinks and snacks. All v
 
 ## Further information
 
-Background readings: We recommend <a href="https://vkrakovna.wordpress.com/ai-safety-resources/">Victoria Krakovna&apos;s AI safety resources</a> and the <a href="https://rohinshah.com/alignment-newsletter/">Alignment newsletter</a> as outlooks of the field.</p>
+Background readings: We recommend [Victoria Krakovna]'s AI safety resources](https://vkrakovna.wordpress.com/ai-safety-resources/) and the [Alignment newsletter](https://rohinshah.com/alignment-newsletter/) as outlooks of the field.
 
 Contact the organizer team by email at [info@aisafetyevents.org](mailto:info@aisafetyevents.org).
 

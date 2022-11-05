@@ -1,9 +1,4 @@
-[submodule "themes/minima"]
-	path = themes/minima
-	url = https://github.com/mivinci/hugo-theme-minima.git
-[submodule "themes/paper"]
-	path = themes/paper
-	url = https://github.com/nanxiaobei/hugo-paper
+
 [submodule "themes/hugo-serif-theme"]
 	path = themes/hugo-serif-theme
 	url = git@github.com:zerostaticthemes/hugo-serif-theme.git

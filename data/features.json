@@ -1,17 +1,17 @@
 [
   {
-    "title": "Social events",
-    "description": "We organize a set of social events at main AI academic conferences",
+    "title": "Conference events",
+    "description": "We organize events alongside the main AI academic conferences.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Retreats",
-    "description": "We help organizations or networks do private workshops and retreats.",
+    "title": "Retreats and workshops",
+    "description": "We help organizations realize private workshops and retreats.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
     "title": "Event operations",
-    "description": "As a service provide, we accept and help the field realize its events.",
+    "description": "As a service provider, we accept and help the field realize its events.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

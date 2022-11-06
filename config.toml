@@ -32,7 +32,7 @@ title = "AI Safety Events"
     base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#f24088"
+    primary = "#4f6603"
     black = "#2f2f41"
     white = "#ffffff"
     white_offset = "#f6f7ff"

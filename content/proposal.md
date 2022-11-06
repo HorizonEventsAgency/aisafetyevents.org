@@ -61,12 +61,14 @@ Open community such that interested workers can join and start helping without t
 
 ## Notes
 
+The organization is to be registered as a non-profit in Québec, Canada.
+
 The expected counterfactual is that no other group runs events steadily. That is, if this project doesn't run we expect that at AI Alignment socials, unconferences, and workshops at academic conferences will not steadily be realized.
 
 Possible early stopping points:
 - If another group starts organizing quality events steadily, or other goals executed by this org, we should consider joining forces.
 - If the org leads to negative feedback from the community or poor execution, and the org can not adapt, the org should consider shutting down.
 
-An additional project this org can support is the realization of an *AI Alignment Conference*. A yearly event gathering actors of the field, with a peer-review publication process, workshops on various aspects, and social events. Such an event would need a careful approach, brought forward by multiple orgs and individuals of the field, with dedicated operations, ...
+A potential project this org can support is an *AI Alignment Conference*. That is, a yearly academic event gathering the field, with a peer-review publication process, workshops, and side events. Its realization would require a careful approach, brought forward by multiple orgs and individuals of the field, with dedicated operations, etc.
 
 The website of the organization is [aisafetyevents.org](https://aisafetyevents.org/).

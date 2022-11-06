@@ -41,6 +41,11 @@ Every 6 months, the organization leads and board meeting for a review and evalua
 AI Safety Events participates in the [hypercert](https://hypercerts.xyz/) system to facilitate its impact evaluation and funding.
 
 
+## Past events
+
+We organized the AI Safety Unconference at NeurIPS in 2018 and 2019.
+
+
 ## Members
 
 ### Working members
@@ -50,7 +55,8 @@ AI Safety Events participates in the [hypercert](https://hypercerts.xyz/) system
 Open community such that interested workers can join and start helping without too much friction.
 
 ### Board members
-- TBD
+
+*Official list in preparation*.
 
 
 ## Notes

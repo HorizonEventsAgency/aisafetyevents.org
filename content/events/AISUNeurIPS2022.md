@@ -8,14 +8,14 @@ The AI Safety Unconference brings together persons interested in aspects of AI s
 
 **Date**: Monday November 28 from 9:00 to 16:00, in New Orleans, alongside NeurIPS 2022.
 
-**Location**: Communicated directly with registered participants, near the Convention Center.
+**Location**: Near the Convention Center - exact location to be communicated directly with registered participants.
 
 
 ## Participate
 
 Fill the **[Application form](https://airtable.com/shr5uLL4tkTuHKOQh)**.
 
-Applications are open until November 20th, 2022. A maximum of 100 participants will be accepted.
+Applications are open until November 20th, 2022. The event is private, free, with a maximum of 100 participants.
 
 Join the [chat room on Matrix](https://matrix.to/#/!kTsOmBGiyQWKmETKhS:one.ems.host?via=one.ems.host), to discuss online before or during the event.
 

@@ -45,6 +45,8 @@ Background readings:
 
 Contact the organizer team by email at [info@aisafetyevents.org](mailto:info@aisafetyevents.org).
 
+The event is [posted on the EA forum](https://forum.effectivealtruism.org/posts/Z9Mprytde6BbkQcq2/ai-safety-unconference-neurips-2022).
+
 
 ## Acknowledgements 
 

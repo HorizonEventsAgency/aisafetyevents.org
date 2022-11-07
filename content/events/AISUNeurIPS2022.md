@@ -19,14 +19,14 @@ Applications are open until November 20th, 2022. A maximum of 100 participants w
 
 Join the [chat room on Matrix](https://matrix.to/#/!kTsOmBGiyQWKmETKhS:one.ems.host?via=one.ems.host), to discuss online before or during the event.
 
-Prepare the facilitation of a discussion, or a ligthning talk. We welcome ideas of special activities - reach out to the organizers if you have one.
+Contribute facilitated discussion (30 min) or a lightning talk (10min). We also welcome other ideas of activities - feel free reach out to the organizers about that.
 
 
 ## Agenda
 
-- 09:00-09:30 - Event opening, breakfast
+- 09:00-09:30 - Event opening, breakfast is served
 - 09:30-12:00 - Facilitated discussions and 1:1s
-- 12:00-13:30 - Lightning talks, lunch
+- 12:00-13:30 - Lightning talks, lunch is served
 - 13:30-15:30 - Facilitated discussions and 1:1s
 - 15:30-16:00 - Event closing
 

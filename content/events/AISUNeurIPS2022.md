@@ -4,7 +4,7 @@ date: 2022-11-05
 draft: false
 ---
 
-The AI Safety Unconference brings together persons interested in all aspects of AI safety, from technical AI safety problems to issues of governance of AI, for one day alongside the NeurIPS week. As an unconference, the event aims to foster valuable social interactions between participants, through moderated discussion groups, one-on-ones, lightning talks, free-form interactions.
+The AI Safety Unconference brings together persons interested in aspects of AI safety, from technical AI safety problems to issues of governance of AI. As an unconference, it aims to foster valuable social interactions between participants, through moderated discussion groups, one-on-ones, lightning talks, free-form interactions.
 
 **Date**: Monday November 28 from 9:00 to 16:00, in New Orleans, alongside NeurIPS 2022.
 
@@ -33,7 +33,6 @@ Contribute facilitated discussion (30 min) or a lightning talk (10min). We also 
 Vegan breakfast and lunch are provided, along with all-day drinks and snacks.
 
 The [Swapcard](https://www.swapcard.com/app/swapcard) application is used for scheduling 1:1 meetings with other participants and registering to facilitated discussions.
-
 
 
 ## Further information

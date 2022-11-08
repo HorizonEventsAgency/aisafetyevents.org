@@ -32,20 +32,15 @@ Contribute facilitated discussion (30 min) or a lightning talk (10min). We also 
 
 Vegan breakfast and lunch are provided, along with all-day drinks and snacks.
 
-The [Swapcard](https://www.swapcard.com/app/swapcard) application is used for scheduling 1:1 meetings with other participants and registering to facilitated discussions.
+The [Swapcard](https://www.swapcard.com/app/swapcard) app is used for scheduling 1:1 meetings with other participants and registering to facilitated discussions.
 
 
 ## Further information
 
-**Testimonials**:
+**Testimonial of past events** ([2018](https://aisafetyunconference.info/2018), [2019](https://aisafetyunconference.info/2019)):
 
 - A great way to meet the best people in the area and propel daring ideas forward. — [Stuart Armstrong](https://www.fhi.ox.ac.uk/team/stuart-armstrong/)
 - The event was a great place to meet others with shared research interests. I particularly enjoyed the small discussion groups that exposed me to new perspectives. — [Adam Gleave](https://www.gleave.me/)
-
-**Past events**:
-
-- [AI Safety Unconference 2019](https://aisafetyunconference.info/2019)
-- [AI Safety Unconference 2018](https://aisafetyunconference.info/2018)
 
 **Background readings**:
 

@@ -37,18 +37,29 @@ The [Swapcard](https://www.swapcard.com/app/swapcard) application is used for sc
 
 ## Further information
 
-Background readings:
+**Testimonials**:
+
+- A great way to meet the best people in the area and propel daring ideas forward. — [Stuart Armstrong](https://www.fhi.ox.ac.uk/team/stuart-armstrong/)
+- The event was a great place to meet others with shared research interests. I particularly enjoyed the small discussion groups that exposed me to new perspectives. — [Adam Gleave](https://www.gleave.me/)
+
+**Past events**:
+
+- [AI Safety Unconference 2019](https://aisafetyunconference.info/2019)
+- [AI Safety Unconference 2018](https://aisafetyunconference.info/2018)
+
+**Background readings**:
+
 - Center for AI Safety's [About AI Risk](https://safe.ai/about-ai-risk)
 - [Krakovna's AI safety resources](https://vkrakovna.wordpress.com/ai-safety-resources)
 - [Alignment newsletter](https://rohinshah.com/alignment-newsletter/)
 - [Superintelligence: Paths, Dangers, Strategies](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) by Nick Bostrom
 
-Contact the organizer team by email at [info@aisafetyevents.org](mailto:info@aisafetyevents.org).
-
-The event is [posted on the EA forum](https://forum.effectivealtruism.org/posts/Z9Mprytde6BbkQcq2/ai-safety-unconference-neurips-2022).
+The event is also published on the [EA forum](https://forum.effectivealtruism.org/posts/Z9Mprytde6BbkQcq2/ai-safety-unconference-neurips-2022) and the [LW forum](https://www.lesswrong.com/posts/QKdcHjoAfPJrZuFJk/ai-safety-unconference-neurips-2022).
 
 
 ## Acknowledgements 
+
+The event is organized in partnership with the [Center for AI Safety](https://safe.ai/).
 
 Organizers:
 
@@ -56,3 +67,5 @@ Organizers:
 - Mauricio H. Luduena
 
 Funding by the Future Fund Regranting Program.
+
+For any questions or feedback, reach out to [info@aisafetyevents.org](mailto:info@aisafetyevents.org).

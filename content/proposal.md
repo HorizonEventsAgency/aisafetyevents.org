@@ -43,7 +43,7 @@ AI Safety Events participates in the [hypercert](https://hypercerts.xyz/) system
 
 ## Past events
 
-We organized the AI Safety Unconference at NeurIPS in 2018 and 2019.
+We organized the AI Safety Unconference at NeurIPS in [2018](https://aisafetyunconference.info/2019) and [2019](https://aisafetyunconference.info/2019).
 
 
 ## Members
@@ -51,8 +51,9 @@ We organized the AI Safety Unconference at NeurIPS in 2018 and 2019.
 ### Working members
 - Orpheus Lummis, project lead
 - Mauricio H. Luduena, administrative assistant
+- *In process of hiring 3rd member*
 
-Open community such that interested workers can join and start helping without too much friction.
+We nurture an open community such that interested persons can join and start helping without much friction.
 
 ### Board members
 

@@ -4,4 +4,25 @@ date: 2022-11-10
 draft: false
 ---
 
-As ML systems increase in capabilities and integration in society, their safety and alignment grow in importance. We welcome participants interested in or working on AI safety topics for a semi-structured social meetup at NeurIPS 2022. Meet peers who may have read your papers or authors you've read, and build new friendships and collaboration opportunities. We recommend using **[Swapcard](https://app.swapcard.com/event/ml-safety-social-neurips-2022)**, to request **one-one-one meetings** with other attendants, and to **participate in moderated discussions**. (If you would like to facilitate one of these groups **fill out [this form](https://airtable.com/shrVlah4XmVe83HyJ)**). Example topics include "Establishing trust in advanced AI systems," "Concrete Threat Models," and "AI Governance and Policy".
+## Background
+
+Designing systems to operate safely in real-world settings is a topic of growing interest in Machine Learning. As AI systems become more capable and widely deployed, it will become increasingly important that they are safe and beneficial. There is a large community of researchers focused on making current and future systems reliable and aligned with our objectives. For example, OpenAI, Anthropic, Inflection, and DeepMind all have safety teams. 
+
+
+## Date and location
+
+Tuesday November 29, 16:00 to 18:00 (PST).
+
+Room 394 of the New Orleans Convention Center.
+
+The event is published [on the NeurIPS's website](https://neurips.cc/Conferences/2022/Schedule?showEvent=56270).
+
+
+## Participating
+
+To engage with the event meaningfully, we recommend to **register and use [Swapcard](https://app.swapcard.com/event/ml-safety-social-neurips-2022)** to:
+
+- request and schedule one-on-one meetings with other participants
+- book attendance to a moderated discussion
+
+Additionally, **fill out [this form](https://airtable.com/shrVlah4XmVe83HyJ)** to facilitate a moderated discussion (30 minutes). Topics should be relevant to ML safety - some examples: "Establishing trust in advanced AI systems", "Concrete threat models", "AI governance and policy".

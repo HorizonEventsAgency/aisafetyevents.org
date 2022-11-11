@@ -1,13 +1,13 @@
 ---
-title: "Proposal and thesis of the AI Safety Events organization"
+title: "AI Safety Events org proposal"
 date: 2022-11-06
 ---
 
-AI Safety Events is a group supporting the realization of events for the AI safety community.
+*AI Safety Events* is a group supporting the realization of events for the AI safety community.
 
-Problem: The field of AI safety is up-and-coming. It doesn't have many dedicated events or representation in the established events. Existing organizations and individual researchers desiring the realization of workshops or socials face an operational burden.
+**Problem**: The field of AI safety is up-and-coming. It doesn't have many dedicated events or representation in the established events. Existing organizations and individual researchers desiring the realization of workshops or socials face an operational burden.
 
-Solution: Creation of an organization dedicated to event operations for the field.
+**Solution**: Creation of an organization dedicated to event operations for the field.
 
 
 ## Theory of change
@@ -43,7 +43,7 @@ AI Safety Events participates in the [hypercert](https://hypercerts.xyz/) system
 
 ## Past events
 
-We organized the AI Safety Unconference at NeurIPS in [2018](https://aisafetyunconference.info/2019) and [2019](https://aisafetyunconference.info/2019).
+We organized the AI Safety Unconference at NeurIPS in [2018](https://aisafetyunconference.info/2019) and [2019](https://aisafetyunconference.info/2019). In 2022, we're looking at organizing the [ML Safety Social](/events/mlsafetysocial2022/) and an [AI Safety Unconference at NeurIPS](https://aisafetyevents.org/events/aisuneurips2022/).
 
 
 ## Members
@@ -64,12 +64,12 @@ We nurture an open community such that interested persons can join and start hel
 
 The organization is to be registered as a non-profit in Québec, Canada.
 
-The expected counterfactual is that no other group runs events steadily. That is, if this project doesn't run we expect that at AI Alignment socials, unconferences, and workshops at academic conferences will not steadily be realized.
+If this project doesn't run we expect that AI safetty events won't be run as steadily as they could - e.g. socials, unconferences, workshops, ...
 
 Possible early stopping points:
 - If another group starts organizing quality events steadily, or other goals executed by this org, we should consider joining forces.
 - If the org leads to negative feedback from the community or poor execution, and the org can not adapt, the org should consider shutting down.
 
-A potential project this org can support is an *AI Alignment Conference*. That is, a yearly academic event gathering the field, with a peer-review publication process, workshops, and side events. Its realization would require a careful approach, brought forward by multiple orgs and individuals of the field, with dedicated operations, etc.
+A potential project this org can support is an *AI Safety Conference*. That is, a yearly academic event gathering the field, with a peer-review publication process, workshops, and side events. Its realization would require a careful approach, brought forward by multiple orgs and individuals of the field, with dedicated operations, etc.
 
 The website of the organization is [aisafetyevents.org](https://aisafetyevents.org/).

@@ -21,6 +21,8 @@ Join the [chat room on Matrix](https://matrix.to/#/!kTsOmBGiyQWKmETKhS:one.ems.h
 
 Contribute facilitated discussion (30 min) or a lightning talk (10min). We also welcome other ideas of activities - feel free reach out to the organizers about that.
 
+**You are also invited to the ML Safety Social**. It is happening on Tuesday at the Convention Center. Visit the [event's website](https://www.mlsafety.org/social) for further information and to apply.
+
 
 ## Agenda
 

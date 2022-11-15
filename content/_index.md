@@ -9,6 +9,6 @@ intro_image_hide_on_mobile: true
 
 # AI Safety Events
 
-AI Safety Events is an organization supporting the realization of events for the AI Safety community.
+AI Safety Events is an organization supporting the realization of events beneficial to the field and community of AI Safety.
 
 We organize our own events, such as socials or unconferences at AI academic conferences, and we provide support for events in the field.

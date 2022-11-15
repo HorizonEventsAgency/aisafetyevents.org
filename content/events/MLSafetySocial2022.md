@@ -34,3 +34,11 @@ Additionally, **fill out [this form](https://airtable.com/shrVlah4XmVe83HyJ)** t
 Visit the [event website's](https://aisafetyevents.org/events/aisuneurips2022/) to apply.
 
 The AI Safety Unconference brings together persons interested in aspects of AI safety, from technical AI safety problems to issues of governance of AI. As an unconference, it aims to foster valuable social interactions between participants, through moderated discussion groups, one-on-ones, lightning talks, free-form interactions.
+
+## Further information
+
+Please read and respect [AISE's code of conduct](/info/code-of-conduct).
+
+The event is organized in partnership with the [Center for AI Safety](https://safe.ai/).
+
+For any questions or feedback, reach out to [info@aisafetyevents.org](mailto:info@aisafetyevents.org).

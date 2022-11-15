@@ -53,6 +53,8 @@ The [Swapcard](https://www.swapcard.com/app/swapcard) app is used for scheduling
 
 The event is also published on the [EA forum](https://forum.effectivealtruism.org/posts/Z9Mprytde6BbkQcq2/ai-safety-unconference-neurips-2022) and the [LW forum](https://www.lesswrong.com/posts/QKdcHjoAfPJrZuFJk/ai-safety-unconference-neurips-2022).
 
+Please read and respect [AISE's code of conduct](/info/code-of-conduct).
+
 
 ## Acknowledgements 
 
@@ -62,7 +64,5 @@ Organizers:
 
 - Orpheus Lummis
 - Mauricio H. Luduena
-
-Funding by the Future Fund Regranting Program.
 
 For any questions or feedback, reach out to [info@aisafetyevents.org](mailto:info@aisafetyevents.org).

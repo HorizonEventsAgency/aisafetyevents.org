@@ -36,6 +36,8 @@ Vegan breakfast and lunch are provided, along with all-day drinks and snacks.
 
 The [Swapcard](https://www.swapcard.com/app/swapcard) app is used for scheduling 1:1 meetings with other participants and registering to facilitated discussions.
 
+We have confirmed participants from the following organizations: Mila, Uni. of Stanford, Anthropic, OpenAI, UC Berkeley, Uni. of Toronto, ETH & Max Planck Institute, Uni. of Cambridge, Vector Institute, NYU, ETH Zurich, DeepMind, Oxford, MIT, and more.
+
 
 ## Further information
 

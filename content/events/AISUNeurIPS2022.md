@@ -67,4 +67,6 @@ Organizers:
 - Orpheus Lummis
 - Mauricio H. Luduena
 
+Thanks Nisan Stiennon for funding the event.
+
 For any questions or feedback, reach out to [info@aisafetyevents.org](mailto:info@aisafetyevents.org).

@@ -11,7 +11,7 @@ If you believe someone has violated this code of conduct, please reach out [info
 
 ## AI Safety Events Code of Conduct
 
-AI Safety Events is an organization supporting the realization of events for the AI Safety community. We organize our own events, such as socials or unconferences at AI academic conferences, and we provide support for events in the field.
+AI Safety Events is an organization supporting the realization of events for the AI safety community. We organize our own events, such as socials or unconferences at AI academic conferences, and we provide support for events in the field.
 
 It is important for the community to share a set of common values such as integrity, respect, and accountability. The quality of experience hinges upon contributions and trustworthiness of its participants.
 

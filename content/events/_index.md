@@ -7,6 +7,6 @@ intro_image_hide_on_mobile: false
 
 # Events
 
-*AI Safety Events* organizes events for the field of AI Safety.
+*AI Safety Events* organizes events for the field of AI safety.
 
 What follows are events realized by the organization.

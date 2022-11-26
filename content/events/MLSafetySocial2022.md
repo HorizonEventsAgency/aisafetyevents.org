@@ -10,7 +10,7 @@ Designing systems to operate safely in real-world settings is a topic of growing
 
 ## Date and location
 
-Tuesday November 29, 16:00 to 18:00 (PST).
+Tuesday November 29, 18:00 to 20:00 (CST).
 
 Room 394 of the New Orleans Convention Center.
 

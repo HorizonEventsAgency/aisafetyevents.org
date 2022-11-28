@@ -19,12 +19,7 @@ The event is published [on the NeurIPS's website](https://neurips.cc/Conferences
 
 ## Participating
 
-To engage with the event meaningfully, we recommend to **register and use [Swapcard](https://app.swapcard.com/event/ml-safety-social-neurips-2022)** to:
-
-- request and schedule one-on-one meetings with other participants
-- book attendance to a moderated discussion
-
-Additionally, **fill out [this form](https://airtable.com/shrVlah4XmVe83HyJ)** to facilitate a moderated discussion (30 minutes). Topics should be relevant to ML safety - some examples: "Establishing trust in advanced AI systems", "Concrete threat models", "AI governance and policy".
+To engage with the event meaningfully, we recommend to **register and use [Swapcard](https://app.swapcard.com/event/ml-safety-social-neurips-2022)** to request and schedule one-on-one meetings with other participants.
 
 
 ## Related event

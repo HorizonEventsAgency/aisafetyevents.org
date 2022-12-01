@@ -74,10 +74,21 @@ title = "AI Safety Events"
     url = "/"
     weight = 1
 
+[[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Testimonials"
+    url = "/testimonials/"
+    weight = 3
+
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 2
+    weight = 4
+
 
   # Footer Menu
   [[menu.footer]]
@@ -85,7 +96,17 @@ title = "AI Safety Events"
     url = "/"
     weight = 1
 
+[[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Testimonials"
+    url = "/testimonials/"
+    weight = 3
+
   [[menu.footer]]
     name = "Contact"
     url = "/contact/"
-    weight = 2
+    weight = 4
